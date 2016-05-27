@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\bin\Debug\PrimeChecker.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\bin\Debug\PrimeChecker.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\bin\Debug\PrimeChecker.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\obj\Debug\PrimeChecker.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\obj\Debug\PrimeChecker.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\PrimeChecker\obj\Debug\PrimeChecker.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\bin\Debug\DataTypesExersises.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\bin\Debug\DataTypesExersises.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\bin\Debug\DataTypesExersises.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\obj\Debug\DataTypesExersises.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\obj\Debug\DataTypesExersises.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\DataTypesExersises\DataTypesExersises\obj\Debug\DataTypesExersises.pdb

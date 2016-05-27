@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\bin\Debug\MasterNumbers.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\bin\Debug\MasterNumbers.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\bin\Debug\MasterNumbers.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\obj\Debug\MasterNumbers.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\obj\Debug\MasterNumbers.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\DataTypesExersises\MasterNumbers\obj\Debug\MasterNumbers.csprojResolveAssemblyReference.cache
