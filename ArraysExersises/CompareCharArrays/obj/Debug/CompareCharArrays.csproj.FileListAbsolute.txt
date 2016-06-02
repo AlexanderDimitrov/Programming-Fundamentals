@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\bin\Debug\CompareCharArrays.exe.config
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\bin\Debug\CompareCharArrays.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\bin\Debug\CompareCharArrays.pdb
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\obj\Debug\CompareCharArrays.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\obj\Debug\CompareCharArrays.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\ArraysExersises\CompareCharArrays\obj\Debug\CompareCharArrays.pdb

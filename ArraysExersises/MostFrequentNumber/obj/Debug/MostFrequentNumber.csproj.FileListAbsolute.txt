@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\bin\Debug\MostFrequentNumber.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\bin\Debug\MostFrequentNumber.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\obj\Debug\MostFrequentNumber.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\obj\Debug\MostFrequentNumber.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\MostFrequentNumber\obj\Debug\MostFrequentNumber.pdb

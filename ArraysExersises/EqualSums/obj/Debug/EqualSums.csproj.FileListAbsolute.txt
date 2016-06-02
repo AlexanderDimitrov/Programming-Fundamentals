@@ -1,0 +1,5 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\EqualSums\bin\Debug\EqualSums.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\EqualSums\bin\Debug\EqualSums.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\EqualSums\bin\Debug\EqualSums.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\EqualSums\obj\Debug\EqualSums.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\ArraysExersises\EqualSums\obj\Debug\EqualSums.pdb

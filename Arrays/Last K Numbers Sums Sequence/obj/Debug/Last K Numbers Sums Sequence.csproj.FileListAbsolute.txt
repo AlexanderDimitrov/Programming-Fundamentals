@@ -1,0 +1,12 @@
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe.config
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.pdb
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\bin\Debug\Last K Numbers Sums Sequence.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Last K Numbers Sums Sequence\obj\Debug\Last K Numbers Sums Sequence.csprojResolveAssemblyReference.cache

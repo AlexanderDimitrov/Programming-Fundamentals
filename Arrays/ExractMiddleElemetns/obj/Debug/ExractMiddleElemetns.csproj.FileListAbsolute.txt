@@ -1,0 +1,5 @@
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\ExractMiddleElemetns\bin\Debug\ExractMiddleElemetns.exe.config
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\ExractMiddleElemetns\bin\Debug\ExractMiddleElemetns.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\ExractMiddleElemetns\bin\Debug\ExractMiddleElemetns.pdb
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\ExractMiddleElemetns\obj\Debug\ExractMiddleElemetns.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\ExractMiddleElemetns\obj\Debug\ExractMiddleElemetns.pdb

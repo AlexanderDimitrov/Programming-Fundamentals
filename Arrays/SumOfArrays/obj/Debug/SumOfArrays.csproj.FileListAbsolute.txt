@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\bin\Debug\SumOfArrays.exe.config
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\bin\Debug\SumOfArrays.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\bin\Debug\SumOfArrays.pdb
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\obj\Debug\SumOfArrays.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\obj\Debug\SumOfArrays.exe
+C:\Users\Freeware Sys\documents\visual studio 2015\Projects\Arrays\SumOfArrays\obj\Debug\SumOfArrays.pdb

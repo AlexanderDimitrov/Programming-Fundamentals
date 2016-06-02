@@ -1,0 +1,9 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\bin\Debug\Arrays.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\Arrays\Arrays\obj\Debug\Arrays.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\Arrays\Arrays\obj\Debug\Arrays.pdb

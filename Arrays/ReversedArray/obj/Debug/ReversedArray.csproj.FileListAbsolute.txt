@@ -1,0 +1,5 @@
+c:\Users\freeware sys\documents\visual studio 2015\Projects\Arrays\ReversedArray\bin\Debug\ReversedArray.exe.config
+c:\Users\freeware sys\documents\visual studio 2015\Projects\Arrays\ReversedArray\bin\Debug\ReversedArray.exe
+c:\Users\freeware sys\documents\visual studio 2015\Projects\Arrays\ReversedArray\bin\Debug\ReversedArray.pdb
+c:\Users\freeware sys\documents\visual studio 2015\Projects\Arrays\ReversedArray\obj\Debug\ReversedArray.exe
+c:\Users\freeware sys\documents\visual studio 2015\Projects\Arrays\ReversedArray\obj\Debug\ReversedArray.pdb

@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\bin\Debug\ArraysExersises.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\bin\Debug\ArraysExersises.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\bin\Debug\ArraysExersises.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\obj\Debug\ArraysExersises.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\obj\Debug\ArraysExersises.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ArraysExersises\ArraysExersises\obj\Debug\ArraysExersises.pdb
