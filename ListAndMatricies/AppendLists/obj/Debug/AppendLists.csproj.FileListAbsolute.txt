@@ -1,0 +1,5 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\AppendLists\bin\Debug\AppendLists.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\AppendLists\bin\Debug\AppendLists.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\AppendLists\bin\Debug\AppendLists.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\AppendLists\obj\Debug\AppendLists.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\AppendLists\obj\Debug\AppendLists.pdb

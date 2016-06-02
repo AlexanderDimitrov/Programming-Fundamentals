@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\bin\Debug\CountNumberOfOccurances.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\bin\Debug\CountNumberOfOccurances.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\bin\Debug\CountNumberOfOccurances.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\obj\Debug\CountNumberOfOccurances.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\obj\Debug\CountNumberOfOccurances.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\CountNumberOfOccurances\obj\Debug\CountNumberOfOccurances.pdb

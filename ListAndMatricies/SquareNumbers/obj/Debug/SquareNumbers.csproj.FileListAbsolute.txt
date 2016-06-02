@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\bin\Debug\SquareNumbers.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\bin\Debug\SquareNumbers.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\bin\Debug\SquareNumbers.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\obj\Debug\SquareNumbers.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\obj\Debug\SquareNumbers.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SquareNumbers\obj\Debug\SquareNumbers.pdb

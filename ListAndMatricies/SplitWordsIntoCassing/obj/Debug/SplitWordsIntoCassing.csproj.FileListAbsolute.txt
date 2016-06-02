@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\bin\Debug\SplitWordsIntoCassing.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\bin\Debug\SplitWordsIntoCassing.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\bin\Debug\SplitWordsIntoCassing.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\obj\Debug\SplitWordsIntoCassing.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\obj\Debug\SplitWordsIntoCassing.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\SplitWordsIntoCassing\obj\Debug\SplitWordsIntoCassing.pdb

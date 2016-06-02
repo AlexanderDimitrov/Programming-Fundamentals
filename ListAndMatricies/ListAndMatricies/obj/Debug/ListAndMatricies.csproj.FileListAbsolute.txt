@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\bin\Debug\ListAndMatricies.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\bin\Debug\ListAndMatricies.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\bin\Debug\ListAndMatricies.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\obj\Debug\ListAndMatricies.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\obj\Debug\ListAndMatricies.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListAndMatricies\obj\Debug\ListAndMatricies.pdb

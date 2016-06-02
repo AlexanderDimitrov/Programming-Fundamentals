@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\bin\Debug\ListDecimalInc.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\bin\Debug\ListDecimalInc.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\bin\Debug\ListDecimalInc.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\obj\Debug\ListDecimalInc.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\obj\Debug\ListDecimalInc.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ListAndMatricies\ListDecimalInc\obj\Debug\ListDecimalInc.pdb
