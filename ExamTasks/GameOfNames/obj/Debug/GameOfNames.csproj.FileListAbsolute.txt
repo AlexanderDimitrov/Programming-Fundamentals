@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\bin\Debug\GameOfNames.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\bin\Debug\GameOfNames.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\bin\Debug\GameOfNames.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\obj\Debug\GameOfNames.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\obj\Debug\GameOfNames.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\Programming Fundamentals\Programming-Fundamentals\ExamTasks\GameOfNames\obj\Debug\GameOfNames.pdb

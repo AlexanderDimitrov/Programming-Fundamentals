@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\bin\Debug\OccurencesInAString.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\bin\Debug\OccurencesInAString.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\bin\Debug\OccurencesInAString.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\obj\Debug\OccurencesInAString.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\obj\Debug\OccurencesInAString.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OccurencesInAString\obj\Debug\OccurencesInAString.pdb

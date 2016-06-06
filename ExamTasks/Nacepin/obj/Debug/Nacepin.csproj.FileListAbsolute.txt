@@ -1,0 +1,5 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\ExamTasks\Nacepin\bin\Debug\Nacepin.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\ExamTasks\Nacepin\bin\Debug\Nacepin.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ExamTasks\Nacepin\bin\Debug\Nacepin.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\ExamTasks\Nacepin\obj\Debug\Nacepin.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\ExamTasks\Nacepin\obj\Debug\Nacepin.pdb

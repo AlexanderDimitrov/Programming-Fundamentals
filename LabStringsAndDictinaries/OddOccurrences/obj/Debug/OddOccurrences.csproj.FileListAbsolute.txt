@@ -1,0 +1,5 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OddOccurrences\bin\Debug\OddOccurrences.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OddOccurrences\bin\Debug\OddOccurrences.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OddOccurrences\bin\Debug\OddOccurrences.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OddOccurrences\obj\Debug\OddOccurrences.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\OddOccurrences\obj\Debug\OddOccurrences.pdb

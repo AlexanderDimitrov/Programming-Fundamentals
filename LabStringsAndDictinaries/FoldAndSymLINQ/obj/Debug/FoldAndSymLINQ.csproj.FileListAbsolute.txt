@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\bin\Debug\FoldAndSymLINQ.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\bin\Debug\FoldAndSymLINQ.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\bin\Debug\FoldAndSymLINQ.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\obj\Debug\FoldAndSymLINQ.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\obj\Debug\FoldAndSymLINQ.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\FoldAndSymLINQ\obj\Debug\FoldAndSymLINQ.pdb

@@ -1,0 +1,5 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\CharsInDictionaries\bin\Debug\CharsInDictionaries.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\CharsInDictionaries\bin\Debug\CharsInDictionaries.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\CharsInDictionaries\bin\Debug\CharsInDictionaries.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\CharsInDictionaries\obj\Debug\CharsInDictionaries.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\CharsInDictionaries\obj\Debug\CharsInDictionaries.pdb

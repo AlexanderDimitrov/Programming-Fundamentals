@@ -1,0 +1,6 @@
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\bin\Debug\Largest3Numbers.exe.config
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\bin\Debug\Largest3Numbers.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\bin\Debug\Largest3Numbers.pdb
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\obj\Debug\Largest3Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\obj\Debug\Largest3Numbers.exe
+C:\Users\Freeware Sys\Documents\Visual Studio 2015\Projects\LabStringsAndDictinaries\Largest3Numbers\obj\Debug\Largest3Numbers.pdb

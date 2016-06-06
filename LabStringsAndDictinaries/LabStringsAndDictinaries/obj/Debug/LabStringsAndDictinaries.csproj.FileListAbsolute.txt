@@ -1,0 +1,6 @@
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\bin\Debug\LabStringsAndDictinaries.exe.config
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\bin\Debug\LabStringsAndDictinaries.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\bin\Debug\LabStringsAndDictinaries.pdb
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\obj\Debug\LabStringsAndDictinaries.csprojResolveAssemblyReference.cache
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\obj\Debug\LabStringsAndDictinaries.exe
+c:\users\freeware sys\documents\visual studio 2015\Projects\LabStringsAndDictinaries\LabStringsAndDictinaries\obj\Debug\LabStringsAndDictinaries.pdb
